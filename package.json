@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "A web app that lets users leave comments on the latest news using Mongoose and Cheerio to scrape news from another site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlinreid1/web-scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caitlinreid1/web-scraping/issues"
+  },
+  "homepage": "https://github.com/caitlinreid1/web-scraping#readme"
+}
